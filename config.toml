@@ -1,0 +1,4 @@
+baseURL = "https://cansheetmusichardness.vercel.app"
+languageCode = "en-us"
+title = "Can Sheet Music 2021"
+theme = "hugo-theme-minos"
